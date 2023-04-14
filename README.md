@@ -41,11 +41,14 @@ will display the website page http://localhost:3000/
 # 1.Search bar filter
 to find information that already exists as an example :
 
-example 1: not search
+example 1: not search 
+
 ![sef1](https://user-images.githubusercontent.com/94011063/231952098-f7b37c51-bce9-4f54-859c-31e4f384f36d.jpg)
 
+---
 
 example 2: search for the word "keg"
+
 ![sef2](https://user-images.githubusercontent.com/94011063/231952104-d693e7c0-7468-4bb5-8e20-fb50e713e2f1.jpg)
 
 
