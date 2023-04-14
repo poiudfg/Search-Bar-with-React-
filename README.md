@@ -1,9 +1,11 @@
 # Search Bar with React
 A search box, search field or search bar is a graphical control element used in computer programs, such as file managers or web browsers, and on web sites. A search box is usually a single-line text box or search icon (which will transform into a search box on click activity) with the dedicated function of accepting user input to be searched for in a database. Search boxes on web pages are usually used to allow users to enter a query to be submitted to a Web search engine server-side script, where an index database is queried for entries that contain one or more of the user's keyword research.
 
+---
+
 divided into
 
- Search bar filter. [here](#1search-bar-filter)
+- Search bar filter. [here](#1search-bar-filter)
 
 
 # ReactJS
